@@ -1,2 +1,2 @@
-# Python script for bio profile analysis
-print('Bio Profile Analysis Script')
+# Main script for Bio Profile NER
+print('Bio Profile Analysis Running...')

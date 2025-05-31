@@ -1,0 +1,11 @@
+{
+  "title": "Bio Profile NER Final",
+  "id": "veby09/bio-profile-ner-final",
+  "licenses": [
+    {
+      "name": "CC0-1.0"
+    }
+  ],
+  "subtitle": "Named entity recognition dataset for bio profiles",
+  "description": "This dataset contains annotated bio profiles for named entity recognition tasks."
+}

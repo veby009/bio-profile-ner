@@ -1,2 +1,2 @@
-# Main script for Bio Profile NER
-print('Bio Profile Analysis Running...')
+# Bio Profile Analysis Script
+print('Running analysis...')

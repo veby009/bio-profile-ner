@@ -1,3 +1,3 @@
 # Bio Profile NER
 
-This project analyzes bio profiles using NER and generates profiling reports.
+Includes visuals, auto-clean, and a Streamlit dashboard.

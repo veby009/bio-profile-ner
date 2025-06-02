@@ -1,2 +1,2 @@
-# Bio Profile Analysis Script
-print('Running analysis...')
+# Main analysis script
+print('Bio Profile Analysis Loaded')
